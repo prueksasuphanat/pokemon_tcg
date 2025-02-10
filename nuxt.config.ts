@@ -14,7 +14,6 @@ export default defineNuxtConfig({
   primevue: {},
 
   app: {
-    baseURL: "/project/pokemontcg/",
     head: {
       link: [
         {
